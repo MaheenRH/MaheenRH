@@ -12,14 +12,6 @@ When I’m not training models, I’m probably designing dashboards, writing doc
 
 ---
 
-### 🚀 What I’m Working On  
-- 🌐 **AI Job Application Tracker** – Gmail + Sheets automation that extracts, classifies, and tracks job leads.  
-- 💧 **Water Intake AI Agent** – FastAPI + LangChain agent that gives smart hydration insights.  
-- 💬 **Speech-to-Speech Translation Pipeline** – Powered by **Stable Whisper**, **Gemini API**, and **Vertex AI** for real-time multilingual communication.  
-- 📊 **Hotel Reviews Sentiment & Forecasting** – Hugging Face + Prophet forecasting for insights and trends.  
-
----
-
 ### 🧩 Tech Stack & Toolbelt  
 **Languages:** Python, JavaScript, SQL, Bash  
 **Frameworks:** PyTorch, Transformers, FastAPI, LangChain, Django  
@@ -30,16 +22,6 @@ When I’m not training models, I’m probably designing dashboards, writing doc
 - 🧩 Reinforcement Learning (DPO, PPO, RLHF Loops)  
 - 🔍 Evaluation Pipelines (BLEU, BLEURT, ROUGE, LLM-as-a-Judge)  
 - ☁️ Cloud Deployment (Google Cloud Platform, Docker, CI/CD)  
-
----
-
-### 📚 Featured Projects  
-
-| 🧠 Project | Description | Tech Stack |
-|------------|--------------|-------------|
-| [💧 Water Intake AI Agent](https://github.com/MaheenRH/water-tracker-backend) | Tracks and analyzes hydration with personalized AI feedback. | FastAPI, LangChain, SQLite, Streamlit |
-| [🤖 Data Science Chatbot](https://github.com/MaheenRH/data-science-chatbot) | Conversational AI that explains ML concepts and forecasts data. | GPT-4o, Hugging Face, FastAPI |
-| 🌍 Translation Pipeline (Vosyn) | Scalable multilingual translation system using DeepSeek-8B and GKE. | Vertex AI, Cloud Run, QLoRA, BLEURT |
 
 ---
 
@@ -62,7 +44,7 @@ When I’m not fine-tuning a model, you’ll find me:
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MaheenAdeeb-blue?logo=linkedin)](https://www.linkedin.com/in/maheenadeeb)  
 [![GitHub](https://img.shields.io/badge/GitHub-MaheenRH-black?logo=github)](https://github.com/MaheenRH)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-purple)](#)  
+
 
 ---
 
