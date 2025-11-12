@@ -3,19 +3,35 @@
 
 ---
 
-### 👩‍💻 About Me  
-Hey there! I’m **Maheen Adeeb**, a hands-on **AI/ML Engineer** who blends creativity with computation.  
-Currently building **agentic AI pipelines**, **translation systems**, and **real-time ML applications** that turn data into impact.  
+## 🧠 About Me  
 
-At **Vosyn**, I lead end-to-end multilingual translation workflows — from **fine-tuning DeepSeek 8B** with QLoRA to **deploying models on GCP (Vertex AI, Cloud Run, GKE)**.  
-When I’m not training models, I’m probably designing dashboards, writing documentation, or sipping coffee while debugging a container. ☕  
+- 🔭 Currently working as a **Senior Machine Learning Engineer** at **Vosyn**, designing and deploying multilingual translation and speech-to-speech pipelines.  
+- 💬 I love combining **language models**, **agentic AI**, and **vision models** to create applied, production-ready solutions.  
+- 🎯 Areas of expertise:  
+  - NLP & Multilingual Translation (BLEU, BLEURT, BERTScore)  
+  - Model Fine-Tuning (DeepSeek, Mistral, Llama 3.1, QLoRA, RLHF/DPO)  
+  - Computer Vision (CNNs, Medical Imaging, YOLO)  
+  - Agentic AI and workflow automation (LangChain, Gradio, FastAPI)  
+- 🌱 Exploring **Agent-based RLHF frameworks**, **retrieval-augmented generation (RAG)**, and **cross-modal AI systems**.  
+- 💼 Open to collaborations in **AI research**, **data science**, and **product-driven ML applications**.  
 
 ---
 
-### 🧩 Tech Stack & Toolbelt  
-**Languages:** Python, JavaScript, SQL, Bash  
-**Frameworks:** PyTorch, Transformers, FastAPI, LangChain, Django  
-**ML/Ops:** Vertex AI, Cloud Run, GKE, MLflow, Hugging Face, Unsloth  
+## 🧰 Tech Stack  
+
+**Languages & Frameworks:**  
+`Python` · `TensorFlow` · `PyTorch` · `Keras` · `FastAPI` · `LangChain` · `Gradio`  
+
+**ML & NLP Tools:**  
+`Scikit-learn` · `SentenceTransformers` · `Hugging Face` · `spaCy` · `NLTK`  
+
+**Data & Visualization:**  
+`Pandas` · `NumPy` · `Matplotlib` · `Seaborn`  
+
+**Cloud & Deployment:**  
+`Google Cloud (Vertex AI, GKE)` · `Render` · `Hugging Face Spaces`  
+
+---
 
 **Specialties:**  
 - 🗣️ Multilingual LLM Fine-Tuning (DeepSeek, Mistral, Gemma, Llama 3)  
@@ -32,6 +48,67 @@ When I’m not training models, I’m probably designing dashboards, writing doc
 - 🧬 Conducted R&D on **fast-slow RLHF models** for better alignment.  
 
 ---
+## 🧩 Featured Projects  
+
+### 🤖 [Data Science Chatbot](https://github.com/MaheenRH/data-science-chatbot)
+An **AI-powered conversational assistant** that answers data science and machine learning questions using **SentenceTransformers** and **Gradio**.  
+- 🧠 Scrapes 100+ questions using `BeautifulSoup`  
+- 🗣️ Embedding-based semantic similarity for Q&A retrieval  
+- 🧩 Powered by `paraphrase-MiniLM-L6-v2`  
+- 🖥️ Interactive web UI built with Gradio  
+
+**Tech:** `Python`, `SentenceTransformers`, `BeautifulSoup`, `Gradio`, `NumPy`, `Pandas`
+
+---
+
+### 🚗 [Car Detection using Neural Network Models](https://github.com/MaheenRH/car-detection-nn)
+A **Computer Vision pipeline** to detect cars in real-world scenes using CNNs and deep learning.  
+- ⚙️ Preprocessing, augmentation, and feature extraction  
+- 🧮 Model comparison (MSE, MAE, Precision)  
+- 📈 Achieved ~98% precision on validation  
+- 🖼️ Includes bounding-box visualizations and metrics table  
+
+**Tech:** `TensorFlow`, `Keras`, `OpenCV`, `NumPy`, `Matplotlib`, `Seaborn`
+
+---
+
+### 💬 [Customers Hotel Review Sentiment Analysis](https://github.com/MaheenRH/hotel-review-sentiment-analysis)
+End-to-end **NLP sentiment classification pipeline** analyzing 250k hotel reviews from multiple cities.  
+- 🧠 Preprocessing, sentiment labeling, and data visualization  
+- 📊 Model training and evaluation (Logistic Regression, Ridge Classifier)  
+- 🎨 Includes interactive plots and evaluation metrics  
+
+**Tech:** `Python`, `Scikit-learn`, `NLTK`, `Pandas`, `Seaborn`, `Matplotlib`
+
+---
+
+### 💧 [Water Intake AI Tracker](https://github.com/MaheenRH/water-tracker-backend)
+An AI agent that helps users monitor and analyze their daily water intake habits.  
+- ⚙️ Built with **FastAPI**, **LangChain**, and **SQLite**  
+- 💬 Generates personalized hydration insights  
+- 🖥️ Includes a Streamlit dashboard for visualization  
+- 🌐 Deployed backend on Render  
+
+**Tech:** `FastAPI`, `LangChain`, `Groq`, `SQLite`, `Streamlit`
+
+---
+
+### 🏨 [Hotel Reviews Forecasting & Sentiment Project](https://github.com/MaheenRH/hotel-review-sentiment-analysis)
+Comprehensive project analyzing global hotel reviews for trends and sentiment insights.  
+- 🧮 Combines classification and time-series forecasting  
+- 📈 Focused on understanding customer experience patterns  
+
+**Tech:** `Python`, `Pandas`, `Seaborn`, `Scikit-learn`, `Matplotlib`
+
+---
+
+### 🧬 [Medical Image Segmentation Pipeline](https://github.com/MaheenRH/medical-image-analysis)
+Deep Learning project for **medical image analysis and segmentation**.  
+- 🩻 U-Net architecture for organ segmentation  
+- ⚙️ Implements Dice loss, IoU metrics  
+- 🧠 GPU-accelerated training pipeline with PyTorch  
+
+**Tech:** `PyTorch`, `NumPy`, `Matplotlib`, `Torchvision`
 
 ### 💡 Beyond Code  
 When I’m not fine-tuning a model, you’ll find me:  
