@@ -33,7 +33,7 @@
 
 ---
 
-**Specialties:**  
+### Specialties:
 - 🗣️ Multilingual LLM Fine-Tuning (DeepSeek, Mistral, Gemma, Llama 3)  
 - 🧩 Reinforcement Learning (DPO, PPO, RLHF Loops)  
 - 🔍 Evaluation Pipelines (BLEU, BLEURT, ROUGE, LLM-as-a-Judge)  
