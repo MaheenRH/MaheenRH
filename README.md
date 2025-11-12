@@ -50,6 +50,28 @@
 ---
 ## 🧩 Featured Projects  
 
+### 💬 [SoulBridge – AI Mental Health Chatbot](https://github.com/MaheenRH/soulbridge)
+An **empathetic mental health assistant** designed to detect emotions and provide supportive, context-aware responses.  
+- 🧠 Integrated `GPT-4o-mini` with a **Hugging Face emotion model**  
+- 💬 Generates **compassionate, non-judgmental** responses using custom prompt logic  
+- 🧩 Built with **FastAPI backend** and **HTML/CSS/JS web UI**  
+- 🔒 Includes **crisis detection safeguards** for responsible AI interaction  
+
+**Tech:** `FastAPI`, `LangChain`, `OpenAI GPT-4o-mini`, `Hugging Face`, `HTML/CSS/JS`  
+
+---
+
+### 📊 [Job Application Tracker](https://github.com/MaheenRH/job-application-tracker)
+A personal productivity and automation tool that simplifies job search tracking and analysis.  
+- 📂 Stores and organizes details of every job applied (company, role, status, link)  
+- 🤖 Automates repetitive tracking tasks  
+- 🧩 Built to visualize application trends and simplify candidate reflection  
+- 💡 Inspired by real-world pain points of managing multiple job submissions manually  
+
+**Tech:** `Python`, `Pandas`, `Streamlit`, `SQLite`, `Matplotlib`
+
+---
+
 ### 🤖 [Data Science Chatbot](https://github.com/MaheenRH/data-science-chatbot)
 An **AI-powered conversational assistant** that answers data science and machine learning questions using **SentenceTransformers** and **Gradio**.  
 - 🧠 Scrapes 100+ questions using `BeautifulSoup`  
@@ -109,6 +131,8 @@ Deep Learning project for **medical image analysis and segmentation**.
 - 🧠 GPU-accelerated training pipeline with PyTorch  
 
 **Tech:** `PyTorch`, `NumPy`, `Matplotlib`, `Torchvision`
+
+---
 
 ### 💡 Beyond Code  
 When I’m not fine-tuning a model, you’ll find me:  
