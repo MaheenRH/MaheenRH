@@ -139,14 +139,6 @@ When I’m not fine-tuning a model, you’ll find me:
 - 🧭 Exploring **AI-driven creativity** (music, art, storytelling)  
 - ☕ Writing **technical documentation** that actually makes sense  
 - 🧘‍♀️ Balancing **mind and model** — because both need training!  
-
----
-
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MaheenAdeeb-blue?logo=linkedin)](https://www.linkedin.com/in/maheenadeeb)  
-[![GitHub](https://img.shields.io/badge/GitHub-MaheenRH-black?logo=github)](https://github.com/MaheenRH)  
-
-
 ---
 
 > 💬 _“AI won’t replace humans, but humans with AI will.”_  
